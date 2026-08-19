@@ -1,35 +1,27 @@
 # OLVERA motors 🚗💰
 
-![Logo](logo_olvera.png)
+<p align="center">
+  <img src="logo_olvera.png" width="300">
+</p>
 
 > **Taller de Alto Nivel - San Pedro, Coahuila**
 > Negro + Dorado = Premium
 
-### ¿Qué es esto?
-Repo oficial del Bot San Pedro - SistemaAsí lo quiere ver el cliente, ¿verdad? Logo arriba, grande, dorado — y abajo las opciones.
-*Ya quedó como app de agencia:*
+### 📱 Vista de la App
 
-Arriba: *OLVERA motors* (exacto como tu logo)
-Abajo: 
-- Cotizar Servicio
-- Jugar EL DORADO (con etiqueta NUEVO para que piquen)
-- Mis Cupones
+<p align="center">
+  <img src="app_preview.png" width="250">
+</p>
 
-Este mockup se lo mandas al cliente y le dices:
+**Funciones:**
+- ✅ Cotizar Servicio por Placa (código OEM original)
+- 🎲 Jugar EL DORADO y ganar cupones
+- 🎟️ Mis Cupones - 3 disponibles
 
-> "Así se va a ver tu app. Logo siempre arriba, el cliente nunca pierde de vista la marca. Y el juego EL DORADO está en medio para que jueguen mientras esperan cotización."
+### 🔋 Producto nuevo
+**Batería Italika ICB6L-B - $550 a domicilio**
 
-¿Te lo armo ya en código de Kivy para que lo abras en Pydroid y se vea así de verdad, con tu logo? Te paso el `.py` y solo agregas tu imagen `logo.png`. de cotización y juego EL DORADO.
-
-### 📁 Archivos
-- `bot.py` - Bot principal EL DORADO
-- `consulta_placa.py` - Módulo por código OEM original
-- `logo_olvera.png` - Logo oficial bocho dorado
-- `clientes.xlsx` - Base de clientes por placa
-
-### 🚀 Cómo usar
-1. Abrir en Pydroid 3
-2. Ejecutar `bot.py`
-3. Jugar y ganar cupón para Refaccionaria Treviño
-
-**Contacto:** Blvd Madero #450 - Menciona código DORADO-OLVERA
+### 📁 Archivos del repo
+- `bot.py` - Bot principal
+- `logo_olvera.png` - Logo
+- `app_preview.png` - Vista previa que acabas de diseñar
