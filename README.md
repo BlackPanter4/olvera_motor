@@ -6,7 +6,20 @@
 > Negro + Dorado = Premium
 
 ### ¿Qué es esto?
-Repo oficial del Bot San Pedro - Sistema de cotización y juego EL DORADO.
+Repo oficial del Bot San Pedro - SistemaAsí lo quiere ver el cliente, ¿verdad? Logo arriba, grande, dorado — y abajo las opciones.
+*Ya quedó como app de agencia:*
+
+Arriba: *OLVERA motors* (exacto como tu logo)
+Abajo: 
+- Cotizar Servicio
+- Jugar EL DORADO (con etiqueta NUEVO para que piquen)
+- Mis Cupones
+
+Este mockup se lo mandas al cliente y le dices:
+
+> "Así se va a ver tu app. Logo siempre arriba, el cliente nunca pierde de vista la marca. Y el juego EL DORADO está en medio para que jueguen mientras esperan cotización."
+
+¿Te lo armo ya en código de Kivy para que lo abras en Pydroid y se vea así de verdad, con tu logo? Te paso el `.py` y solo agregas tu imagen `logo.png`. de cotización y juego EL DORADO.
 
 ### 📁 Archivos
 - `bot.py` - Bot principal EL DORADO
